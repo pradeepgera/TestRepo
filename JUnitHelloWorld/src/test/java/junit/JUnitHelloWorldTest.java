@@ -17,7 +17,7 @@ public class JUnitHelloWorldTest {
 
 	@Before
 	public void before() {
-		System.out.println("Before Test Case.");
+		System.out.println("Before Test Case..");
 	}
 
 	@Test
