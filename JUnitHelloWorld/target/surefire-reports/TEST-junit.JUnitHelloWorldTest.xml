@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="junit.JUnitHelloWorldTest" time="0.016" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="junit.JUnitHelloWorldTest" time="0.008" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_191\jre\bin"/>
@@ -27,7 +27,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="D:\LAPTOP\_SCM\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf7710195945471101404.tmp"/>
+    <property name="classworlds.conf" value="D:\LAPTOP\_SCM\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf8434788883361517546.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_191\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_191/bin/server;C:/Program Files/Java/jre1.8.0_191/bin;C:/Program Files/Java/jre1.8.0_191/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Users\pradeep.gera\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Python27\;C:\Python27\scripts;D:\miPlatform\mipm\bin;C:\Program Files\MIT\Kerberos\bin;C:\Python27\Lib\site-packages;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Symantec\VIP Access Client\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk1.8.0_191\bin;C:\Maven\apache-maven-3.6.0\bin;C:\Users\pradeep.gera\AppData\Local\Microsoft\WindowsApps;;C:\Users\pradeep.gera\Desktop;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -61,5 +61,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="junit.JUnitHelloWorldTest" name="isGreaterTest" time="0.016"/>
+  <testcase classname="junit.JUnitHelloWorldTest" name="isGreaterTest" time="0.008"/>
 </testsuite>
