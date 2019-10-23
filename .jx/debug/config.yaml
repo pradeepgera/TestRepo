@@ -1,0 +1,35 @@
+cluster:
+  cluster-ipv4-cidr: ""
+  cluster-name: ""
+  disk-size: ""
+  enable-autoupgrade: false
+  enhanced-apis: false
+  enhanced-scopes: false
+  image-type: ""
+  kubernetes-version: ""
+  labels: ""
+  machine-type: ""
+  max-num-nodes: ""
+  min-num-nodes: ""
+  network: ""
+  preemptible: false
+  project-id: ""
+  region: ""
+  scope: ""
+  skip-login: false
+  subnetwork: ""
+  use-stackdriver-monitoring: true
+  zone: ""
+install:
+  gitops: false
+  kaniko: false
+  namespace: jx
+  next-generation: false
+  prow: false
+  static-jenkins: false
+  tekton: false
+meta-pipeline-image: ""
+no-apply: false
+output: out
+skip-installation: false
+use-meta-pipeline: true
